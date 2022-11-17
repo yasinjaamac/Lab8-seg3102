@@ -5,7 +5,7 @@ import org.springframework.boot.runApplication
 
 @SpringBootApplication
 class BooksapigraphqlApplication
-//yasinJ
+//yasinJaamac
 fun main(args: Array<String>) {
 	runApplication<BooksapigraphqlApplication>(*args)
 }
