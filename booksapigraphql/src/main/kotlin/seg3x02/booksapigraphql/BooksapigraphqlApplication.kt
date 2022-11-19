@@ -9,3 +9,4 @@ class BooksapigraphqlApplication
 fun main(args: Array<String>) {
 	runApplication<BooksapigraphqlApplication>(*args)
 }
+
